@@ -19,7 +19,6 @@ function App() {
         </a>
       </header>
       <p>Test Apps</p>
-      <p>Happy Hacking!</p>
     </div>
   );
 }
